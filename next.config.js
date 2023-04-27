@@ -4,6 +4,7 @@ const nextConfig = {
     appDir: true,
     newNextLinkBehavior: false,
   },
+  output: 'export',
 };
 
 module.exports = nextConfig;
